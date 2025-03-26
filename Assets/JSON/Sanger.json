@@ -1,0 +1,175 @@
+[
+    {
+        "NavnArtist": "Adele",
+        "Tittel": "Hello",
+        "Kjønn": "Kvinne",
+        "Alder": "33",
+        "Bilde": "Adele.jpg",
+        "Lydfil": "/Assets/audio/Adele - Hello (Lyrics).mp3",
+        "Sjanger": "Pop, Soul",
+        "Utgivelsesår": "2015",
+        "Album": "25",
+        "Nasjonalitet": "Britisk",
+        "Beskrivelse": "En emosjonell ballade om tap, anger og nostalgi."
+    },
+
+    {
+        "NavnArtist": "Lange",
+        "Tittel": "Follow Me",
+        "Kjønn": "Mann",
+        "Alder": "Ukjent",
+        "Bilde": "FollowMe.jpg",
+        "Lydfil": "/Assets/audio/Lange - Follow Me (Lange's Club Mix) (2000).mp3",
+        "Sjanger": "Trance, Progressive Trance",
+        "Utgivelsesår": "2000",
+        "Album": "DJ Tiestos Magik Seven (samlealbum)",
+        "Nasjonalitet": "Britisk",
+        "Beskrivelse": "En ikonisk trance-låt med drømmende melodier og fengslende vokal, kjent for sin euphoriske atmosfære."
+    },
+
+    {
+        "NavnArtist": "Keep Shelly in Athens",
+        "Tittel": "Don't Fear the Reaper",
+        "Kjønn": "Duo (Kvinne & Mann)",
+        "Alder": "Ukjent",
+        "Bilde": "Reaper.jpg",
+        "Lydfil": "/Assets/audio/Keep Shelly in Athens - (Don't Fear) The Reaper.mp3",
+        "Sjanger": "Dream Pop, Electronic",
+        "Utgivelsesår": "2017",
+        "Album": "Now I'm Ready",
+        "Nasjonalitet": "Gresk",
+        "Beskrivelse": "En drømmende coverversjon av Blue Öyster Cults klassiker, preget av atmosfæriske synther og myk vokal."
+    },
+
+    {
+        "NavnArtist": "Energy 52",
+        "Tittel": "Café del Mar",
+        "Kjønn": "Duo (Menn)",
+        "Alder": "Ukjent",
+        "Bilde": "Energy52.jpg",
+        "Lydfil": "/Assets/audio/Energy 52 - Café Del Mar '98 (Original Three 'N One Mix) (1998).mp3",
+        "Sjanger": "Trance, Progressive House",
+        "Utgivelsesår": "1993",
+        "Album": "Singel",
+        "Nasjonalitet": "Tysk",
+        "Beskrivelse": "En av de mest ikoniske trance-låtene, kjent for sin hypnotiske melodi og inspirert av den berømte chillout-baren Café del Mar på Ibiza."
+    },
+    
+    {
+        "NavnArtist": "Jessie J",
+        "Tittel": "Domino",
+        "Kjønn": "Kvinne",
+        "Alder": "36",
+        "Bilde": "Domino.jpg",
+        "Lydfil": "/Assets/audio/Jessie J - Domino (Official Video).mp3",
+        "Sjanger": "Pop, Dance-Pop",
+        "Utgivelsesår": "2011",
+        "Album": "Who You Are",
+        "Nasjonalitet": "Britisk",
+        "Beskrivelse": "En fengende, livlig poplåt inspirert av tidlig 2010-talls dansemusikk."
+    },
+
+
+    {
+        "NavnArtist": "Adele",
+        "Tittel": "Set Fire To The Rain",
+        "Kjønn": "Kvinne",
+        "Alder": "33",
+        "Bilde": "SetFireToTheRain.jpg",
+        "Lydfil": "/Assets/audio/Set Fire to the Rain.mp3",
+        "Sjanger": "Pop, Soul",
+        "Utgivelsesår": "2011",
+        "Album": "21",
+        "Nasjonalitet": "Britisk",
+        "Beskrivelse": "En kraftfull ballade med dramatiske strykerarrangementer og lidenskapelig vokal."
+    },
+    {
+        "NavnArtist": "Survivor",
+        "Tittel": "Eye of the Tiger",
+        "Kjønn": "Mannlig band",
+        "Alder": "Band (etablert 1978)",
+        "Bilde": "Rocky.jpg",
+        "Lydfil": "/Assets/audio/Survivor - Eye Of The Tiger (Official HD Video).mp3",
+        "Sjanger": "Rock, Hard Rock",
+        "Utgivelsesår": "1982",
+        "Album": "Eye of the Tiger",
+        "Nasjonalitet": "Amerikansk",
+        "Beskrivelse": "En ikonisk rockelåt, kjent som temalåten fra filmen *Rocky III*, med en energisk og motiverende sound."
+    },
+
+    {
+    "NavnArtist": "Calvin Harris",
+    "Tittel": "Summer",
+    "Kjønn": "Mannlig artist",
+    "Alder": "Født 1984",
+    "Bilde": "Summer.jpg",
+    "Lydfil": "/Assets/audio/Calvin Harris - Summer (Lyrics).mp3",
+    "Sjanger": "EDM, Dance, Electro House",
+    "Utgivelsesår": "2014",
+    "Album": "Motion",
+    "Nasjonalitet": "Skotsk",
+    "Beskrivelse": "En fengende sommerhit med en elektronisk beat, kjent for sin energiske og lett gjenkjennelige melodi."
+    },
+
+    {
+    "NavnArtist": "Swedish House Mafia feat. John Martin",
+    "Tittel": "Don't You Worry Child",
+    "Kjønn": "Mannlig gruppe",
+    "Alder": "Gruppen etablert 2008",
+    "Bilde": "SwedishMafia.jpg",
+    "Lydfil": "/Assets/audio/Swedish House Mafia - Don't You Worry Child LYRICS.mp3",
+    "Sjanger": "EDM, Progressive House",
+    "Utgivelsesår": "2012",
+    "Album": "Until Now",
+    "Nasjonalitet": "Svensk",
+    "Beskrivelse": "En følelsesladet EDM-hymne med kraftige vokaler av John Martin, kjent for sitt inspirerende budskap og store festival-lyd."
+    },
+
+    {
+        "NavnArtist": "Cimorelli",
+        "Tittel": "Carol of the Bells",
+        "Kjønn": "Kvinnelig gruppe",
+        "Alder": "Ukjent",
+        "Bilde": "Cimorelli.jpg",
+        "Lydfil": "/Assets/audio/Carol Of The Bells (lyrics) _ Cimorelli.mp3",
+        "Sjanger": "A cappella, Pop",
+        "Utgivelsesår": "2014",
+        "Album": "Christmas Magic",
+        "Nasjonalitet": "Amerikansk",
+        "Beskrivelse": "En harmonisk a cappella-tolkning av den klassiske julesangen, fremført med imponerende vokalarrangementer av søstergruppen Cimorelli."
+    },
+
+    {
+        "NavnArtist": "a-ha",
+        "Tittel": "Take On Me",
+        "Kjønn": "Band (Menn)",
+        "Alder": "Ukjent",
+        "Bilde": "TakeOnMe.jpg",
+        "Lydfil": "/Assets/audio/Take on Me.mp3",
+        "Sjanger": "Synth-pop, New Wave",
+        "Utgivelsesår": "1985",
+        "Album": "Hunting High and Low",
+        "Nasjonalitet": "Norsk",
+        "Beskrivelse": "En ikonisk synth-pop-hit med en fengende melodi og distinkt falsett-vokal, kjent for sin banebrytende musikkvideo med rotoskop-animasjon."
+    },
+
+
+
+    {
+        "NavnArtist": "LMFAO feat. Lauren Bennett & GoonRock",
+        "Tittel": "Party Rock Anthem",
+        "Kjønn": "Mannlig duo",
+        "Alder": "Gruppen etablert 2006",
+        "Bilde": "PartyRock.jpg",
+        "Lydfil": "/Assets/audio/LMFAO - Party Rock Anthem (Lyrics) ft. Lauren Bennett, GoonRock.mp3",
+        "Sjanger": "Electro House, Dance-Pop",
+        "Utgivelsesår": "2011",
+        "Album": "Sorry for Party Rocking",
+        "Nasjonalitet": "Amerikansk",
+        "Beskrivelse": "En energisk festklassiker."
+    }
+]
+
+
+    
+
